@@ -10,8 +10,6 @@
 后期会不断优化、如果对您有帮助，您可以点右上角 "Star" ❤️ 支持一下 谢谢！以此鼓励、谢谢支持呀！
 再次也希望可以提供宝贵的需求意建议（issues）、我们将不断改进优化。
 
-####需要代码联系主页+V
-
 ## 内置功能
 ~~~
 1.  用户管理：用户是系统操作者，该功能主要完成系统用户配置。
@@ -107,20 +105,27 @@
 ## 2、移动端效果图展示
 <table>
     <tr>
-       <td><img src="https://gitee.com/ye-sgui/student-attendance/raw/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%99%BB%E5%BD%95%E9%A6%96%E9%A1%B5.png"/></td>
-       <td><img src="https://gitee.com/ye-sgui/student-attendance/raw/master/%E5%B7%A5%E4%BD%9C%E5%8F%B0%E9%A6%96%E9%A1%B5.png"/></td>
+       <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E7%A7%BB%E5%8A%A8%E7%99%BB%E5%BD%95.png"/></td>
+       <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E9%A6%96%E9%A1%B5%E7%A7%BB%E5%8A%A8.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://gitee.com/ye-sgui/student-attendance/raw/master/%E9%A6%96%E9%A1%B5.png"/></td>
-        <td><img src="https://gitee.com/ye-sgui/student-attendance/raw/master/%E7%AD%BE%E5%88%B0%E4%BF%A1%E6%81%AF.png"/></td>
+        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E5%B7%A5%E4%BD%9C%E5%8F%B0%E7%A7%BB%E5%8A%A8.png"/></td>
+        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E6%88%91%E7%9A%84%E7%8F%AD%E7%BA%A7.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://gitee.com/ye-sgui/student-attendance/raw/master/%E6%88%91%E7%9A%84%E8%AF%B7%E5%81%87.png"/></td>
-        <td><img src="https://gitee.com/ye-sgui/student-attendance/raw/master/%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A.png"/></td>
+        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E6%88%91%E7%9A%84%E5%AE%BF%E8%88%8D.png"/></td>
+        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E7%A7%BB%E5%8A%A8%E5%8F%91%E8%B5%B7%E7%AD%BE%E5%88%B0.png"/></td>
     </tr>	 
-    <tr>
-        <td><img src="https://gitee.com/ye-sgui/student-attendance/raw/master/%E6%88%91%E7%9A%84%E9%A1%B5%E9%9D%A2.png"/></td>
-        <td></td>
+     <tr>
+        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E7%A7%BB%E5%8A%A8%E4%B8%AA%E4%BA%BA%E4%B8%8A%E4%BC%A0.png"/></td>
+        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E7%A7%BB%E5%8A%A8%E8%AF%B7%E5%81%87.png"/></td>
+    </tr>
+   <tr>
+        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E7%A7%BB%E5%8A%A8%E8%AF%B7%E5%81%87%E6%95%B0%E6%8D%AE.png"/></td>
+        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A.png"/></td>
+    </tr>
+     <tr>
+        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E7%A7%BB%E5%8A%A8%E6%88%91%E7%9A%84.png"/></td>
     </tr>
 </table>
 
