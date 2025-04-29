@@ -57,57 +57,12 @@
  
 ## 1、后台效果图展示
 <table>
-    <tr>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E5%AD%A6%E7%94%9F%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86.png"/></td>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E8%BE%85%E5%AF%BC%E5%91%98%E7%AE%A1%E7%90%86.png"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E5%AD%A6%E7%94%9F%E8%AF%B7%E5%81%87%E7%AE%A1%E7%90%86.png"/></td>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E5%AE%BF%E8%88%8D%E6%A5%BC%E5%B1%82%E7%AE%A1%E7%90%86.png"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E5%8F%91%E8%B5%B7%E7%AD%BE%E5%88%B0.png"/></td>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E5%BD%92%E5%AE%BF%E6%8F%90%E9%86%92.png"/></td>
-    </tr>	 
-    <tr>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%AE%A1%E7%90%86.png"/></td>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E4%B8%AA%E4%BA%BA%E4%BA%BA%E8%84%B8%E4%B8%8A%E4%BC%A0%E5%90%8E%E5%8F%B0%E5%BA%93.png"/></td>
-    </tr>
-  <tr>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E7%AD%BE%E5%88%B0%E6%95%B0%E6%8D%AE.png"/></td>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E5%BD%93%E6%97%A5%E7%8F%AD%E7%BA%A7%E8%80%83%E5%8B%A4%E6%95%B0%E6%8D%AE.png"/></td>
-    </tr>
-  <tr>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E5%BD%93%E6%97%A5%E5%AD%A6%E9%99%A2%E7%8F%AD%E7%BA%A7%E5%AD%A6%E7%94%9F%E8%80%83%E5%8B%A4%E6%95%B0%E6%8D%AE.png"/></td>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E6%9F%A5%E8%AF%A2%E8%80%83%E5%8B%A4%E8%8C%83%E5%9B%B4%E8%80%83%E5%8B%A4%E6%95%B0%E6%8D%AE.png"/></td>
-    </tr>
+
 </table>
 
 ## 2、移动端效果图展示
 <table>
-    <tr>
-       <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E7%A7%BB%E5%8A%A8%E7%99%BB%E5%BD%95.png"/></td>
-       <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E9%A6%96%E9%A1%B5%E7%A7%BB%E5%8A%A8.png"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E5%B7%A5%E4%BD%9C%E5%8F%B0%E7%A7%BB%E5%8A%A8.png"/></td>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E6%88%91%E7%9A%84%E7%8F%AD%E7%BA%A7.png"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E6%88%91%E7%9A%84%E5%AE%BF%E8%88%8D.png"/></td>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E7%A7%BB%E5%8A%A8%E5%8F%91%E8%B5%B7%E7%AD%BE%E5%88%B0.png"/></td>
-    </tr>	 
-     <tr>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E7%A7%BB%E5%8A%A8%E4%B8%AA%E4%BA%BA%E4%B8%8A%E4%BC%A0.png"/></td>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E7%A7%BB%E5%8A%A8%E8%AF%B7%E5%81%87.png"/></td>
-    </tr>
-   <tr>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E7%A7%BB%E5%8A%A8%E8%AF%B7%E5%81%87%E6%95%B0%E6%8D%AE.png"/></td>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A.png"/></td>
-    </tr>
-     <tr>
-        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E7%A7%BB%E5%8A%A8%E6%88%91%E7%9A%84.png"/></td>
-    </tr>
+
 </table>
 
 
