@@ -132,12 +132,24 @@
        <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E9%A6%96%E9%A1%B5%E7%A7%BB%E5%8A%A8.png"/></td>
     </tr> 
     <tr>
-       <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E7%A7%BB%E5%8A%A8%E7%99%BB%E5%BD%95.png"/></td>
-       <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E9%A6%96%E9%A1%B5%E7%A7%BB%E5%8A%A8.png"/></td>
+       <td><img src="https://gitee.com/Alicia-1997/wechat-push-template/raw/master/%E5%B7%A5%E4%BD%9C%E5%8F%B0%E7%A7%BB%E5%8A%A8.png"/></td>
+       <td><img src="https://gitee.com/Alicia-1997/wechat-push-template/raw/master/%E6%88%91%E7%9A%84%E5%AE%BF%E8%88%8D.png"/></td>
     </tr> 
     <tr>
-       <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E7%A7%BB%E5%8A%A8%E7%99%BB%E5%BD%95.png"/></td>
-       <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E9%A6%96%E9%A1%B5%E7%A7%BB%E5%8A%A8.png"/></td>
+       <td><img src="https://gitee.com/Alicia-1997/wechat-push-template/raw/master/%E6%88%91%E7%9A%84%E7%8F%AD%E7%BA%A7.png"/></td>
+       <td><img src="https://gitee.com/Alicia-1997/wechat-push-template/raw/master/%E7%A7%BB%E5%8A%A8%E4%B8%AA%E4%BA%BA%E4%B8%8A%E4%BC%A0.png"/></td>
+    </tr> 
+   <tr>
+       <td><img src="https://gitee.com/Alicia-1997/wechat-push-template/raw/master/%E7%A7%BB%E5%8A%A8%E5%8F%91%E8%B5%B7%E7%AD%BE%E5%88%B0.png"/></td>
+       <td><img src="https://gitee.com/Alicia-1997/wechat-push-template/raw/master/%E7%A7%BB%E5%8A%A8%E6%88%91%E7%9A%84.png"/></td>
+    </tr> 
+   <tr>
+       <td><img src="https://gitee.com/Alicia-1997/wechat-push-template/raw/master/%E7%A7%BB%E5%8A%A8%E8%AF%B7%E5%81%87%E6%95%B0%E6%8D%AE.png"/></td>
+       <td><img src="https://gitee.com/Alicia-1997/wechat-push-template/raw/master/%E8%8C%83%E5%9B%B4%E5%86%85%E7%AD%BE%E5%88%B0.png"/></td>
+    </tr> 
+   <tr>
+       <td><img src="https://gitee.com/Alicia-1997/wechat-push-template/raw/master/%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A.png"/></td>
+       <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/db182850b3434519aef2f00bca8112f0.png"/ style="width:250px;height:250px"></td>
     </tr> 
 </table>
 
