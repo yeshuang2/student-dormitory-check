@@ -149,7 +149,7 @@
     </tr> 
    <tr>
        <td><img src="https://gitee.com/Alicia-1997/wechat-push-template/raw/master/%E9%80%9A%E7%9F%A5%E5%85%AC%E5%91%8A.png"/></td>
-       <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/db182850b3434519aef2f00bca8112f0.png"/ style="width:250px;height:250px"></td>
+       <td><img src="https://gitee.com/ye-sgui/student-dormitory-check/raw/master/%E4%BA%BA%E8%84%B8.png/"></td>
     </tr> 
 </table>
 
